@@ -52,7 +52,7 @@ const tbodyEl = document.getElementsByClassName("melumatlar")
 
 for(let i=0; i<telebeler.length; i++) {
 
-    tbodyEl.inn
+
 
 }
     
